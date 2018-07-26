@@ -7,3 +7,7 @@ WIP
 - multiple concurrent jobs
 - longer job descriptions
 - remove google instrumentation
+
+i forked this code because i needed a timesheet app one evening and this code exists and so i don't have to pay for one.
+
+end of story.
